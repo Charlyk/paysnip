@@ -211,6 +211,7 @@ class PersonAssignment {
 - Email/password input fields
 - Sign-in button
 - Google SSO button
+- Apple SSO button (for iPhones)
 - Link to signup screen
 - Forgot password option
 - Error handling

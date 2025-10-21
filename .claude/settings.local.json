@@ -5,7 +5,15 @@
       "Bash(flutter create:*)",
       "Bash(flutter pub get:*)",
       "Bash(flutter doctor:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(flutter pub run build_runner clean:*)",
+      "Bash(flutter clean:*)",
+      "Bash(flutter build:*)",
+      "Bash(dart analyze:*)",
+      "Bash(flutter run:*)",
+      "Bash(dart run:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
